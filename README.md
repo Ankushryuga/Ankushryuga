@@ -40,6 +40,12 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
+#### Distributed 
+
+- ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white&style=for-the-badge)
+- ![gRPC](https://img.shields.io/badge/gRPC-4285F4?logo=google&logoColor=white&style=for-the-badge) + ![Protocol Buffers](https://img.shields.io/badge/Protobuf-0081CB?logo=google&logoColor=white&style=for-the-badge)
+- ![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?logo=apache-cassandra&logoColor=white&style=for-the-badge)
+  
 ---
 
 ### 📊 GitHub Stats
