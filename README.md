@@ -53,7 +53,7 @@
 
 ### 🔥 GitHub Activity Graph
 
-[![Ankush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankush-github-username&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ankush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankushryuga&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
