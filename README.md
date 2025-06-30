@@ -23,7 +23,7 @@ Currently, I'm designing, building, maintaining and scalable, distributed system
 
 # Framework & Libraray
 * SpringBoot
-* ReactJS
+* ReactJS, Bootstrap, Tailwindcss
 * Nodejs
 
 <!--
