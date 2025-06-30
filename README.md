@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working at **Altengt** building scalable, distributed systems  
+- 🔭 Currently working at **Altengt** building robuts, scalable, distributed systems  
 - 🚀 Passionate about **Software Design**, **LLD/HLD**, and **Cloud-native infrastructure**
 - 🧠 Exploring **Machine Learning & AI**
 - ⚽ Avid sports enthusiast
