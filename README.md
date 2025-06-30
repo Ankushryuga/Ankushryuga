@@ -9,7 +9,7 @@ Currently, I'm designing, building, maintaining and scalable, distributed system
 
 
 # Area of Interest:
-* Software Design & Architecture
+* Software Design, Architecture, LLD & HLD 
 * Distributed Systems
 * Docker, Kubernetes, Jenkins, Grafana, Prometheous & Cloud-native ecosystems
 * ML & AI
