@@ -52,7 +52,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ankushryuga&show_icons=true&theme=tokyonight" alt="Ankush's GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushryuga&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushryuga&layout=compact&theme=tokyonight" alt="Top Languages" height="200em"/>
 </p>
 
 
