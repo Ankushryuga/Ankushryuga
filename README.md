@@ -58,8 +58,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankushryuga&show_icons=true&theme=tokyonight" alt="Ankush's GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushryuga&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankushryuga&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="54%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushryuga&layout=compact&theme=tokyonight&hide_border=false" width="45%" />
 </p>
 
 
