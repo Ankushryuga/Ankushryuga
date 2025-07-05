@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer | Distributed Systems Enthusiast | ML | AI | Sports Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=400&lines=I+love+solving+real+problems;Designing+Scalable+Distributed+Systems;Cloud-Native+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=600&lines=I+love+solving+real+problems;Designing+Scalable+Distributed+Systems;Cloud-Native+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -51,9 +51,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankushryuga&show_icons=true&theme=tokyonight" alt="Ankush's GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushryuga&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankushryuga&show_icons=true&theme=tokyonight" alt="Ankush's GitHub stats" width="420px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushryuga&layout=compact&theme=tokyonight" alt="Top Languages" width="340px"/>
 </p>
+
 
 
 
