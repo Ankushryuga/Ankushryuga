@@ -1,6 +1,6 @@
 <!-- Hi there 👋 -->
 <h1 align="center">Hi there 👋, I'm Ankush</h1>
-<h3 align="center">A passionate Software Engineer | Distributed Systems Enthusiast | ML | AI | Sports Lover</h3>
+<h3 align="center">A passionate Software Engineer | Distributed Systems Enthusiast | ML | AI | ⚽ Sports Lover</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=600&lines=I+love+solving+real+problems;Designing+Scalable+Distributed+Systems;Cloud-Native+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
