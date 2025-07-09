@@ -14,7 +14,7 @@
 - 🚀 Passionate about **Software Design**, **LLD/HLD**, and **Cloud-native infrastructure**
 - 🧠 Exploring **Machine Learning & AI**
 - ⚽ Avid sports enthusiast
-- 🎸 Guitarist
+- 🎸 Love playing worst Guitar
 ---
 
 ### 💡 Tech Stack
