@@ -59,7 +59,7 @@
 
 
 #### 🛠️ Others
-| 📬 Messaging Queue                             | 🧱 Backend System Architecture                                              | 🧪 Backend System Testing                                               | 🔐 Security                                  | 💻 Operating System                      |
+| 📬 Messaging Queue                             | 🧱 System Architecture                                              | 🧪 System Testing                                               | 🔐 Security                                  | 💻 Operating System                      |
 |-----------------------------------------|---------------------------------------------------------|-----------------------------------------------------|----------------------------------------------|-----------------------------------------|
 | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) | ![Microservices](https://img.shields.io/badge/Microservices-FF8C00?style=flat) <br> ![Monolithic](https://img.shields.io/badge/Monolithic-708090?style=flat) | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=java&logoColor=white) <br> ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white) | ![OAuth2](https://img.shields.io/badge/OAuth2-7B3FA0?style=flat&logo=oauth&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 ---
