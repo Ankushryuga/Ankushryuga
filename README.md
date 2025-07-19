@@ -44,9 +44,6 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-#### 📬 Messaging
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
 #### 🔌 API Protocols & Documentation
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Protocol Buffers](https://img.shields.io/badge/Protobuf-0081CB?style=for-the-badge&logo=google&logoColor=white)
@@ -60,18 +57,14 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 
-#### 🧱 Architecture
+
+#### 📬 Messaging, 🧱 Architecture, 🧪 Testing, 🔐 Security,  💻 OS
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF8C00?style=for-the-badge)
 ![Monolithic](https://img.shields.io/badge/Monolithic-708090?style=for-the-badge)
-
-#### 🧪 Testing
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
-
-#### 🔐 Security
 ![OAuth2](https://img.shields.io/badge/OAuth2-7B3FA0?style=for-the-badge&logo=oauth&logoColor=white)
-
-#### 💻 OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
