@@ -61,7 +61,7 @@
 #### 🛠️ Others
 
 | 📬 Messaging                            | 🧱 Architecture                                          | 🧪 Testing                                           | 🔐 Security                                  | 💻 Operating System                      |
-|---------------------------------------|---------------------------------------------------------|-----------------------------------------------------|----------------------------------------------|-----------------------------------------|
+|----------------------------------|----------------------------------------------------|------------------------------------------------|------------------------------------------|------------------------------------|
 | ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) | ![Microservices](https://img.shields.io/badge/Microservices-FF8C00?style=for-the-badge) ![Monolithic](https://img.shields.io/badge/Monolithic-708090?style=for-the-badge) | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white) | ![OAuth2](https://img.shields.io/badge/OAuth2-7B3FA0?style=for-the-badge&logo=oauth&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
