@@ -22,19 +22,23 @@
 
 <!-- SVG Icon Grid -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,ts,js,python,cpp,react,nodejs,spring,docker,kubernetes,aws,azure,mysql,postgres,mongodb,redis,kafka,graphql,git,linux" />
+  <img src="https://skillicons.dev/icons?i=go,java,ts,js,python,cpp,react,nodejs,spring,docker,kubernetes,aws,azure,jenkins,grafana,prometheus,mysql,postgres,mongodb,cassandra,redis,kafka,graphql,swagger,git,linux,architecture" />
 </p>
 
 <details>
   <summary>📚 Expand for More</summary>
 
-- 💻 Languages: Go, Java, Python, C++, JavaScript, TypeScript
-- 🧩 Frameworks and Libraries: Spring Boot, React, Node.js, Tailwind CSS
-- ☁️ Cloud & DevOps: Docker, Kubernetes, AWS, Azure, Jenkins, GitHub Actions
-- 🗃️ DBs & Messaging: MySQL, PostgreSQL, Cassandra, Redis, Kafka
-- 🔐 Security: OAuth2
-- 🔗 APIs: REST, gRPC + Protobuf, GraphQL
-- 🧪 Testing: Unit, JMeter
+- 💻 **Languages:** Go, Java, Python, C++, JavaScript, TypeScript  
+- 🧩 **Frameworks & Libraries:** Spring Boot, React, Node.js, Tailwind CSS  
+- ☁️ **Cloud & DevOps:** Docker, Kubernetes, AWS, Azure, Jenkins, GitHub Actions, Grafana, Prometheus  
+- 🗃️ **DBs & Messaging:** MySQL, PostgreSQL, MongoDB, Cassandra, Redis, Kafka  
+- 🔐 **Security:** OAuth2  
+- 🔗 **APIs & Documentation:** REST, gRPC + Protobuf, GraphQL, Swagger  
+- 🧪 **Testing:** JUnit, JMeter  
+- 🏗️ **System Architecture:** Microservices, Monolithic  
+- 🖥️ **OS:** Linux  
+
+</details>
 
 </details>
 
