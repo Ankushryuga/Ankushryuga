@@ -1,0 +1,32 @@
+# .github/workflows/nasa-apod.yml
+name: NASA APOD
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # Every day at 2AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-apod:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch NASA APOD
+        run: |
+          curl "https://api.nasa.gov/planetary/apod?api_key=${{ secrets.NASA_API_KEY }}" \
+          | jq -r '.url' > apod.txt
+
+      - name: Update README with APOD
+        run: |
+          url=$(cat apod.txt)
+          sed -i "s|https://apod.nasa.gov/.*|$url|" README.md
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "chore: update NASA APOD"
