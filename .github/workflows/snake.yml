@@ -34,6 +34,8 @@
 
 
 
+
+
 name: Generate Snake
 
 on:
@@ -49,15 +51,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake (multiple themes)
+      - name: Generate Snake (Dark Blue)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Ankushryuga
           outputs: |
-            dist/snake-light.svg
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake-radical.svg?palette=radical
-            dist/snake-neon.svg?color_snake=#39FF14&color_dots=#00FFFF,#FF00FF,#FFFF00,#FF4500,#1E90FF
+            dist/snake-darkblue.svg?color_snake=#1E3A8A&color_dots=#3B82F6,#2563EB,#60A5FA,#93C5FD,#1D4ED8
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
@@ -65,3 +64,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
+
