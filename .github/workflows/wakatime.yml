@@ -1,0 +1,21 @@
+# .github/workflows/wakatime.yml
+name: WakaTime Stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # Every day 6AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_TOTAL: true
