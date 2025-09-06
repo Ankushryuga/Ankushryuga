@@ -1,0 +1,27 @@
+# .github/workflows/3d-contrib.yml
+name: 3D Contributions
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Every midnight UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          USERNAME: Ankushryuga
+          OUTPUT_PATH: profile-3d-contrib
+          THEME: "night-rainbow"
+
+      - name: Push to main
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "chore: update 3D contribution graph"
+          add: "profile-3d-contrib/*.svg"
