@@ -62,26 +62,39 @@
 | 📬 Messaging Queue                             | 🧱 System Architecture                                              | 🧪 System Testing                                               | 🔐 Security                                  | 💻 Operating System                      |
 |-----------------------------------------|---------------------------------------------------------|-----------------------------------------------------|----------------------------------------------|-----------------------------------------|
 | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) | ![Microservices](https://img.shields.io/badge/Microservices-FF8C00?style=flat) ![Monolithic](https://img.shields.io/badge/Monolithic-708090?style=flat) | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=java&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white) | ![OAuth2](https://img.shields.io/badge/OAuth2-7B3FA0?style=flat&logo=oauth&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankushryuga&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="54%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushryuga&layout=compact&theme=tokyonight&hide_border=false" width="45%" />
-</p>
-
 
 
 
 
 ---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankushryuga&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankushryuga&theme=github-dark&hide_border=true" width="48%" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankushryuga&theme=github-dark&hide_border=true" width="96%" />
+</div>
+
+---
+
 
 ### 🔥 GitHub Activity Graph
 
 [![Ankush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankushryuga&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+---
 
+### 🎯 Quote I Live By
+
+> “Write code as if the next person to maintain it is a psychopath who knows where you live.”  
+> — _John Woods_
+
+---
 
 *Designed with ❤️ by Ankush*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
