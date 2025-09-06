@@ -79,14 +79,6 @@
 
 ---
 
-
-### 🔥 GitHub Activity Graph
-
-[![Ankush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankushryuga&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
----
-
 ### 🎯 Quote I Live By
 
 > “Write code as if the next person to maintain it is a psychopath who knows where you live.”  
