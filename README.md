@@ -1,28 +1,11 @@
 <!-- Hi there 👋 -->
-<!--
 <h1 align="center">Hi there 👋, I'm Ankush</h1>
 <h3 align="center">A passionate Software Engineer | Distributed Systems Enthusiast | ML | AI | ⚽ Sports Lover</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=600&lines=I+love+solving+real+problems;Designing+Scalable+Distributed+Systems;Cloud-Native+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
 </p> 
- 
 
- # 🌌 Ankush — Software Engineer · Cloud-Native · ML & AI
-
-<p align="center">
-  <img src="./banner.svg" alt="Ankush - banner" style="max-width:100%; border-radius:8px;" />
-</p>
-
-<h3 align="center">Passionate Software Engineer | Distributed Systems Enthusiast | ML · AI | ⚽ Sports Lover</h3>
--->
-# 🌌 Ankush — Software Engineer · Cloud-Native · ML & AI
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ankush%20Ryuga%20🚀&fontAlign=50&fontAlignY=40&color=0:00F7FF,100:FF00E6&animation=twinkling&fontColor=ffffff" alt="Ankush - banner" />
-</p>
-
-<h3 align="center">Passionate Software Engineer | Distributed Systems Enthusiast | ML · AI | ⚽ Sports Lover</h3>
 
 ---
 
