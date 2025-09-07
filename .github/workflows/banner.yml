@@ -56,7 +56,7 @@ jobs:
 
             <!-- left column -->
             <g transform="translate(100,120)">
-              <text class="sans" x="0" y="-8" font-size="36" fill="#eaf6ff" font-weight="700">Ankush</text>
+              <text class="sans" x="0" y="-8" font-size="36" fill="#eaf6ff" font-weight="700">Hi there 👋, I'm Ankush</text>
               <text class="mono" x="0" y="24" font-size="15" fill="#b6c6ff" font-weight="600">Passionate Software Engineer · Distributed Systems Enthusiast</text>
               <text class="mono" x="0" y="46" font-size="14" fill="#9fb7ff">ML &amp; AI · Cloud-Native · ⚽ Sports Lover · 🎸 Worst Guitarist</text>
 
