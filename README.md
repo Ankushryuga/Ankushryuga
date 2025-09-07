@@ -7,9 +7,9 @@
 </p> 
 
 <p align="center">
-  <!-- Auto-generated daily by GitHub Action -->
-  <img src="./banner.svg" alt="Ankush Banner" />
+  <img src="https://raw.githubusercontent.com/AnkushRj/AnkushRj/main/banner.svg" alt="Ankush Banner" />
 </p>
+
 
 ---
 
