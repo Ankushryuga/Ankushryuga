@@ -7,7 +7,7 @@
 </p> 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnkushRj/AnkushRj/main/banner.svg" alt="Ankush Banner" />
+  <img src="https://raw.githubusercontent.com/Ankushryuga/Ankushryuga/main/banner.svg" alt="Ankush Banner" />
 </p>
 
 
