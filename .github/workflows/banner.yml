@@ -75,25 +75,8 @@ jobs:
               <text class="mono" x="-36" y="6" font-size="12" fill="#e9f7ff">Cloud • Systems • ML</text>
             </g>
 
-            <!-- right column with tech badges -->
-            <!-- 
-            <g transform="translate(740,120)" font-family="Inter, sans-serif" >
-              <text x="0" y="-12" fill="#cfefff" font-weight="700" font-size="14">Tech &amp; Tools</text>
-              <g transform="translate(0,12)">
-                <rect x="0" y="0" width="110" height="28" rx="6" fill="#081226" stroke="url(#g1)" stroke-width="1.6"/>
-                <text x="14" y="19" fill="#eaf6ff" font-size="12" class="mono">Go · Java · Python</text>
+          
 
-                <rect x="126" y="0" width="160" height="28" rx="6" fill="#081226" stroke="url(#g1)" stroke-width="1.6"/>
-                <text x="136" y="19" fill="#eaf6ff" font-size="12" class="mono">React · Spring · Tailwind</text>
-
-                <rect x="0" y="40" width="170" height="28" rx="6" fill="#081226" stroke="url(#g1)" stroke-width="1.6"/>
-                <text x="14" y="59" fill="#eaf6ff" font-size="12" class="mono">Docker · K8s · Kafka · Jenkins</text>
-
-                <rect x="190" y="40" width="170" height="28" rx="6" fill="#081226" stroke="url(#g1)" stroke-width="1.6"/>
-                <text x="200" y="59" fill="#eaf6ff" font-size="12" class="mono">AWS · Prometheus · Grafana</text>
-              </g>
-            </g>
-            -->
           </svg>
           EOF
 
