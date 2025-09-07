@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<!-- <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Ankush - Neon GitHub Banner">
   <defs>
     <linearGradient id="g1" x1="0" x2="1">
@@ -26,35 +26,139 @@
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="360" fill="url(#bg)"/>
+<!--   <rect width="1200" height="360" fill="url(#bg)"/>
 
   <!-- central card -->
-  <g transform="translate(60,48)">
+<!--   <g transform="translate(60,48)">
     <rect x="0" y="0" width="1080" height="264" rx="14" fill="rgba(6,8,14,0.6)"/>
     <rect x="0" y="0" width="1080" height="264" rx="14" fill="none" class="glowStroke" stroke-width="1.6" filter="url(#softGlow)"/>
-  </g>
+  </g> -->
 
   <!-- left column -->
-  <g transform="translate(100,120)">
+<!--   <g transform="translate(100,120)">
     <text class="sans" x="0" y="-8" font-size="36" fill="#eaf6ff" font-weight="700">Hi there 👋, I'm Ankush</text>
     <text class="mono" x="0" y="24" font-size="15" fill="#b6c6ff" font-weight="600">Passionate Software Engineer · Distributed Systems Enthusiast</text>
     <text class="mono" x="0" y="46" font-size="14" fill="#9fb7ff">ML &amp; AI · Cloud-Native · ⚽ Sports Lover · 🎸 Worst Guitarist</text>
-
+ -->
     <!-- terminal box -->
-    <g transform="translate(0,64)">
+<!--     <g transform="translate(0,64)">
       <rect x="0" y="0" width="520" height="72" rx="8" fill="rgba(2,6,12,0.5)" stroke="#081227" stroke-width="1"/>
       <text class="mono" x="16" y="24" font-size="12" fill="#00ffd5">$ whoami</text>
       <text class="mono" x="16" y="44" font-size="12" fill="#cfefff">Hi there 👋, I'm Ankush — Software Engineer | Cloud-Native | ML &amp; AI</text>
       <rect x="16" y="50" width="8" height="6" rx="1" fill="#00ffd5" opacity="0.9"/>
     </g>
   </g>
-
+ -->
   <!-- orbiting neon icons -->
-  <g id="orbitGroup" transform="translate(600,180)">
+<!--   <g id="orbitGroup" transform="translate(600,180)">
     <circle r="48" fill="#071226" stroke="url(#g1)" stroke-width="3" filter="url(#softGlow)"/>
     <text class="mono" x="-36" y="6" font-size="12" fill="#e9f7ff">Cloud • Systems • ML</text>
   </g>
 
 
 
+</svg> -->
+<!--  -->
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360">
+  <style>
+    .title {
+      font-family: 'Fira Code', monospace;
+      font-weight: 700;
+      font-size: 42px;
+      fill: url(#title-gradient);
+    }
+    .subtitle {
+      font-family: 'Fira Code', monospace;
+      font-weight: 400;
+      font-size: 20px;
+      fill: var(--sub-color);
+    }
+    .mono {
+      font-family: 'Fira Code', monospace;
+    }
+
+    /* Default (dark mode) colors */
+    :root {
+      --sub-color: #b0b0b0;
+      --terminal-bg: #1e1e1e;
+      --terminal-stroke: #00ffcc;
+      --terminal-text: #00ffcc;
+      --terminal-sub: #9fb7ff;
+    }
+
+    /* Light mode overrides */
+    @media (prefers-color-scheme: light) {
+      :root {
+        --sub-color: #444;
+        --terminal-bg: #f0f0f0;
+        --terminal-stroke: #007acc;
+        --terminal-text: #007acc;
+        --terminal-sub: #444;
+      }
+    }
+
+    .glow {
+      filter: drop-shadow(0 0 6px rgba(0,255,200,0.6));
+    }
+  </style>
+
+  <!-- Background gradients for dark/light -->
+  <defs>
+    <linearGradient id="bg-dark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="bg-light" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fdfbfb"/>
+      <stop offset="50%" stop-color="#ebedee"/>
+      <stop offset="100%" stop-color="#d7d7d7"/>
+    </linearGradient>
+
+    <!-- Animated Gradient for Title -->
+    <linearGradient id="title-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ffcc">
+        <animate attributeName="offset" values="-2; 1" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#ffffff">
+        <animate attributeName="offset" values="-1.5; 1.5" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#3d9cff">
+        <animate attributeName="offset" values="0; 2" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Two background rects (light & dark), only one visible depending on theme -->
+  <rect width="1200" height="360" rx="20" ry="20" fill="url(#bg-dark)" class="dark-bg"/>
+  <rect width="1200" height="360" rx="20" ry="20" fill="url(#bg-light)" class="light-bg"/>
+
+  <style>
+    .dark-bg { display: inline; }
+    .light-bg { display: none; }
+    @media (prefers-color-scheme: light) {
+      .dark-bg { display: none; }
+      .light-bg { display: inline; }
+    }
+  </style>
+
+  <!-- Header Text -->
+  <g transform="translate(60, 100)">
+    <text class="title">Hi there 👋, I'm Ankush</text>
+    <text class="subtitle" y="50">Passionate Software Engineer</text>
+    <text class="subtitle" y="80">ML &amp; AI · Cloud-Native · ⚽ Sports Lover · 🎸 Worst Guitarist</text>
+  </g>
+
+  <!-- Terminal-style box -->
+  <g transform="translate(60, 220)" class="glow">
+    <rect width="1080" height="100" rx="10" ry="10" 
+          fill="var(--terminal-bg)" stroke="var(--terminal-stroke)" stroke-width="2"/>
+    <text class="mono" x="16" y="40" font-size="16" fill="var(--terminal-text)">
+      $ echo "Always learning new things..."
+    </text>
+    <text class="mono" x="16" y="70" font-size="16" fill="var(--terminal-sub)">
+      Ankush — Software Engineer | Cloud-Native | ML &amp; AI
+    </text>
+  </g>
 </svg>
