@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=600&lines=I+love+solving+real+problems;Designing+Scalable+Distributed+Systems;Cloud-Native+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
 </p> 
 
+<p align="center">
+  <!-- Auto-generated daily by GitHub Action -->
+  <img src="./banner.svg" alt="Ankush Banner" />
+</p>
 
 ---
 
