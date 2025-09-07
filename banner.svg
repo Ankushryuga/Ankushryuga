@@ -44,7 +44,7 @@
     <g transform="translate(0,64)">
       <rect x="0" y="0" width="520" height="72" rx="8" fill="rgba(2,6,12,0.5)" stroke="#081227" stroke-width="1"/>
       <text class="mono" x="16" y="24" font-size="12" fill="#00ffd5">$ whoami</text>
-      <text class="mono" x="16" y="44" font-size="12" fill="#cfefff">Ankush — Software Engineer | Cloud-Native | ML &amp; AI</text>
+      <text class="mono" x="16" y="44" font-size="12" fill="#cfefff">Hi there 👋, I'm Ankush — Software Engineer | Cloud-Native | ML &amp; AI</text>
       <rect x="16" y="50" width="8" height="6" rx="1" fill="#00ffd5" opacity="0.9"/>
     </g>
   </g>
