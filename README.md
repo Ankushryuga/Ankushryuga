@@ -27,7 +27,7 @@
 
 <!-- SVG Icon Grid -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,ts,js,python,cpp,react,nodejs,spring,docker,kubernetes,aws,azure,jenkins,grafana,prometheus,mysql,postgres,mongodb,cassandra,redis,kafka,graphql,swagger,git,linux,architecture" />
+  <img src="https://skillicons.dev/icons?i=go,java,ts,js,python,cpp,react,nodejs,spring,docker,kubernetes,aws,azure,jenkins,grafana,prometheus,mysql,postgres,mongodb,cassandra,redis,kafka,graphql,swagger,git,linux,architecture,githubactions,redhat" />
 </p>
 
 <details>
