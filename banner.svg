@@ -85,7 +85,7 @@
   <!-- Header Text -->
   <g transform="translate(60, 100)">
     <text class="title">Hi there 👋, I'm Ankush</text>
-    <text class="subtitle" y="50">Passionate Software Engineer</text>
+    <text class="subtitle" y="50">Software Developer</text>
     <text class="subtitle" y="80">ML &amp; AI · Cloud-Native · ⚽ Sports Lover · 🎸 Worst Guitarist</text>
   </g>
 
