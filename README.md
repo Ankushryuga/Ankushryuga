@@ -27,7 +27,7 @@
 
 <!-- SVG Icon Grid -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,ts,js,python,cpp,react,nodejs,spring,docker,kubernetes,aws,azure,jenkins,grafana,prometheus,mysql,postgres,mongodb,cassandra,redis,kafka,graphql,swagger,git,linux,architecture,githubactions,redhat" />
+  <img src="https://skillicons.dev/icons?i=go,java,ts,js,python,cpp,react,nodejs,spring,docker,kubernetes,aws,azure,jenkins,grafana,prometheus,mysql,postgres,mongodb,cassandra,redis,kafka,graphql,swagger,git,linux,architecture,githubactions,redhat,Figma" />
 </p>
 
 <details>
@@ -41,7 +41,8 @@
 - 🔗 **APIs & Documentation:** REST, gRPC + Protobuf, GraphQL, Swagger  
 - 🧪 **Testing:** JUnit, JMeter  
 - 🏗️ **System Architecture:** Microservices, Monolithic  
-- 🖥️ **OS:** Linux  
+- 🖥️ **OS:** Linux
+- 🎨 Design & Prototyping: Figma
 
 </details>
 
