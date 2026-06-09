@@ -13,6 +13,5 @@ My work is centered around designing software that is scalable, maintainable, an
 - Applying LLMs, RAG, and AI Agents to real-world use cases
 
 ## Contact
-- GitHub: [Ankush](https://github.com/Ankushryuga)
 - LinkedIn: [Ankush](https://www.linkedin.com/in/ankushraj2022/)
 - Email: rajankush960@gmail.com
