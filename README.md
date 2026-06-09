@@ -1,71 +1,18 @@
+# Hi there, I'm Ankush 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ankushryuga/Ankushryuga/main/banner.svg" alt="Ankush Banner" />
-</p>
+Software Developer with experience building Scalable systems, APIs, full-stack applications, and GenAI solutions.
 
+My work is centered around designing software that is scalable, maintainable, and dependable in production. I enjoy solving engineering problems with clear architecture, strong fundamentals, and practical execution across both traditional software systems and modern AI-powered applications.
 
----
+## Focus Areas
+- Building production-ready backend systems
+- Designing scalable APIs and services
+- Cloud-native infrastructure
+- Writing reliable, testable, and maintainable software
+- Developing GenAI-powered products and workflows
+- Applying LLMs, RAG, and AI Agents to real-world use cases
 
-### 🧑‍💻 About Me
-
-- 🔭 Currently working at **IPG** <!--building robuts, scalable, distributed systems-->  
-- 🚀 Passionate about **Software Design**, **LLD/HLD**, and **Cloud-native infrastructure**
-- 🧠 Exploring **Machine Learning & AI**
-- ⚽ Avid sports enthusiast
-- 🎸 Love playing worst Guitar
----
-
-## 💡 Tech Stack
-
-<!-- SVG Icon Grid -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,ts,js,python,cpp,react,nodejs,spring,docker,kubernetes,aws,azure,jenkins,grafana,prometheus,mysql,postgres,mongodb,cassandra,redis,kafka,graphql,swagger,git,linux,architecture,githubactions,redhat,Figma" />
-</p>
-
-<details>
-  <summary>📚 Expand for More</summary>
-
-- 💻 **Languages:** Go, Java, Python, C++, JavaScript, TypeScript  
-- 🧩 **Frameworks & Libraries:** Spring Boot, React, Node.js, Tailwind CSS  
-- ☁️ **Cloud & DevOps:** Docker, Kubernetes, AWS, Azure, Jenkins, GitHub Actions, Grafana, Prometheus  
-- 🗃️ **DBs & Messaging:** MySQL, PostgreSQL, MongoDB, Cassandra, Redis, Kafka  
-- 🔐 **Security:** OAuth2  
-- 🔗 **APIs & Documentation:** REST, gRPC + Protobuf, GraphQL, Swagger  
-- 🧪 **Testing:** JUnit, JMeter  
-- 🏗️ **System Architecture:** Microservices, Monolithic  
-- 🖥️ **OS:** Linux
-- 🎨 Design & Prototyping: Figma
-
-</details>
-
-</details>
-
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankushryuga&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ankushryuga&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankushryuga&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ankushryuga/Ankushryuga/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
-### 🎯 Quote I Live By
-
-> “Write code as if the next person to maintain it is a psychopath who knows where you live.”  
-> — _John Woods_
-
----
-*Designed with ❤️ by Ankush*
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+## Contact
+- GitHub: [Ankush](https://github.com/Ankushryuga)
+- LinkedIn: [Ankush](https://www.linkedin.com/in/ankushraj2022/)
+- Email: rajankush960@gmail.com
